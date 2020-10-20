@@ -1,0 +1,11 @@
+"mbeur": {
+  "nom": "babs basse",
+  "force": 21,
+  "techniques": ["mbott", "khattarbi", "fiilé"]
+}
+
+"ecurie": {
+  "nom": "boul faalé",
+  "adresse": "pikine",
+  "mbeurs": ["mbeurs"]
+}
